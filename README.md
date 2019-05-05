@@ -1,2 +1,2 @@
 # renshu_python
-python practice
+python practice repository 
